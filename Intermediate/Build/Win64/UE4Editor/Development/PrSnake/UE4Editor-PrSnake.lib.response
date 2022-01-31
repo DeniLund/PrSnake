@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PrSnake.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\gamedev UE\PrSnake\Intermediate\Build\Win64\PrSnakeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\gamedev UE\PrSnake\Intermediate\Build\Win64\UE4Editor\Development\PrSnake\PrSnake.cpp.obj"
+"D:\gamedev UE\PrSnake\Intermediate\Build\Win64\UE4Editor\Development\PrSnake\PrSnakeGameModeBase.cpp.obj"
+"D:\gamedev UE\PrSnake\Intermediate\Build\Win64\UE4Editor\Development\PrSnake\PrSnake.init.gen.cpp.obj"
+"D:\gamedev UE\PrSnake\Intermediate\Build\Win64\UE4Editor\Development\PrSnake\PrSnakeGameModeBase.gen.cpp.obj"
+"D:\gamedev UE\PrSnake\Intermediate\Build\Win64\UE4Editor\Development\PrSnake\Default.rc2.res"
+/OUT:"D:\gamedev UE\PrSnake\Intermediate\Build\Win64\UE4Editor\Development\PrSnake\UE4Editor-PrSnake.lib"

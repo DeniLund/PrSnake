@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\gamedev UE\\PrSnake\\Source\\PrSnake\\PrSnake.Build.cs",
+		"D:\\gamedev UE\\PrSnake\\Source\\PrSnake.Target.cs",
+		"D:\\gamedev UE\\PrSnake\\Source\\PrSnakeEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

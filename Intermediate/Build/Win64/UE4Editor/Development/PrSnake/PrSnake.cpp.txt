@@ -1,0 +1,2 @@
+D:\gamedev UE\PrSnake\Intermediate\Build\Win64\UE4Editor\Development\PrSnake\Definitions.PrSnake.h
+D:\gamedev UE\PrSnake\Source\PrSnake\PrSnake.h

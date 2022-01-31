@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PrSnake.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{990B256F-B57A-455E-9702-B0686B85E88D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PrSnake.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PrSnakeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{0813D22A-C3C5-4522-AFD3-BB0C1A21F383}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PrSnake">
+      <UniqueIdentifier>{9CBD5AE4-CCE3-4023-9977-E74C792F759E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PrSnake\PrSnake.Build.cs">
+      <Filter>Source\PrSnake</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PrSnake\PrSnake.cpp">
+      <Filter>Source\PrSnake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrSnake\PrSnake.h">
+      <Filter>Source\PrSnake</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PrSnake\PrSnakeGameModeBase.cpp">
+      <Filter>Source\PrSnake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PrSnake\PrSnakeGameModeBase.h">
+      <Filter>Source\PrSnake</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
